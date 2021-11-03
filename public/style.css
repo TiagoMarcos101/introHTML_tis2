@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(96, 105, 124);
+}
+#paneleiro{
+    background-color:yellow;
+   }
+#gecha{
+ background-color: wheat;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#gecha-hover{
+    background-color:red;
+   }

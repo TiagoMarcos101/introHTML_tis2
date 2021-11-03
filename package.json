@@ -1,0 +1,26 @@
+{
+  "name": "introhtml_tis2",
+  "version": "1.0.0",
+  "description": "Exemplo de html",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoMarcos101/introHTML_tis2.git"
+  },
+  "author": "Tiago Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoMarcos101/introHTML_tis2/issues"
+  },
+  "homepage": "https://github.com/TiagoMarcos101/introHTML_tis2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
