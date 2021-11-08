@@ -1,15 +1,29 @@
 body{
     background-color: rgb(96, 105, 124);
 }
-#paneleiro{
-    background-color:yellow;
-   }
-#gecha{
- background-color: wheat;
+
+.p1
+{
+    background-color: thistle;
+}
+
+.p1:hover
+{
+    background-color: white
+}
+
+.car
+{
+ width: 25%;
+ height: auto;
+ border-radius: 100%
+
+ 
+}
+.legendas
+{
+    text-align: center;
 }
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-#gecha-hover{
-    background-color:red;
-   }
