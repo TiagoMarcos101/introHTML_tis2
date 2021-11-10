@@ -27,3 +27,117 @@ body{
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.nav
+{
+    display: block;
+    position:absolute;
+    top: 0px;
+    left: 0%;
+    right: 0%;
+    height: 50px;
+    background-color: black;
+    width: 100%;
+
+}
+.tit_pagina
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    font-size: 16px;
+    margin-left: 50px;
+    padding-left: 50px;
+    /* codigo abaixo é para mantar texto no meio*/
+    position: relative;
+    margin: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+    float: left;
+
+
+}
+.link_pagina
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    font-size: 20px;
+    /* codigo abaixo é para mantar texto no meio*/
+    position: relative;
+    margin: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+    float:right;
+    padding-right: 40px;
+
+}
+
+.link_pagina:hover
+{
+    color:   #ed2478;
+    background-color:   #aa1;
+
+}
+.fundo_lp
+{
+    height: 70px;
+    padding: 50px;
+}
+.primeirop_marca
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+
+}
+.opel
+{
+    width: 25%;
+}
+.tit_carro
+{
+    color: white;
+    font-family: fantasy;
+    font-size: 25px;
+}
+.imgopelmanta
+{
+    width: 25%;
+    float:left;
+}
+.imgfordcapri
+{
+    width: 25%;
+    float:right;
+}
+.pf_i
+{
+     font-size: 50px;
+}
+.tit.sobrenos
+{
+   font-size: 50px; 
+   
+}
+.container
+{
+    width: 70%;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    position: static;
+}
+.ganda
+{
+    width: 75%;
+    margin-top: 65px;
+    margin-left: 140px;
+    margin-bottom: 15px;
+    
+    
+    
+
+}
+.opel2
+{
+    width: 25%;
+    float:right;
+}

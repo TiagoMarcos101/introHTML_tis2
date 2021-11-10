@@ -16,5 +16,39 @@
     color: chocolate;
     font-size: 16px;
     margin-left: 50px;
-    vertical-align: middle;
+    padding-left: 50px;
+    /* codigo abaixo é para mantar texto no meio*/
+    position: relative;
+    margin: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+    float: left;
+
+
+}
+.link_pagina
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    font-size: 20px;
+    /* codigo abaixo é para mantar texto no meio*/
+    position: relative;
+    margin: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+    float:right;
+    padding-right: 40px;
+
+}
+
+.link_pagina:hover
+{
+    color:   #ed2478;
+    background-color:   #aa1;
+
+}
+.fundo_lp
+{
+    height: 70px;
+    padding: 50px;
 }
